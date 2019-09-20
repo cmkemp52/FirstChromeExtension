@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Basic extension",
-    "version": "0.1",
+    "name": "Reddit annoyer",
+    "version": "0.12",
     "content_scripts": [
     {"matches": ["https://www.reddit.com/*","http://www.reddit.com/*"],
     "js": ["content.js"]}],
