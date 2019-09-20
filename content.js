@@ -1,1 +1,1 @@
-alert("This is a chrome extension?")
+alert("Get back to studying!")
